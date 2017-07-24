@@ -1,0 +1,1 @@
+Inside config.json api keys, secrets and other.
